@@ -1,36 +1,17 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2 class="wordwrap">Publications</h2>
+<div class="wordwrap">
+<b>Kenan Tang*</b>, Peiyang Song*, Yao Qin, Xifeng Yan, <i>Creative and Context-Aware Translation of East Asian Idioms with GPT-4</i>, EMNLP Findings 2024 and the Workshop on Asian Translation (WAT) 2024
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+Michael van der Naald, Abhi Singh, Toka Eid, <b>Kenan Tang</b>, Juan J. de Pablo, Heinrich M. Jaeger, <i>Minimally Rigid Clusters in Dense Suspension Flow</i>, Nature Physics 2024
+</div>
+<h2 class="wordwrap">Preprints</h2>
+<div class="wordwrap">
+<b>Kenan Tang</b>, <i>PETCI: A Parallel English Translation Dataset of Chinese Idioms</i>, Arxiv 2022
+</div>
