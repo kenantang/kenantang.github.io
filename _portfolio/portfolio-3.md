@@ -1,11 +1,8 @@
 ---
-title: "Compositionality"
-excerpt: "Image generated according to a blog post of Prof. Gary Marcus.<br/><img src='/images/rabbit.jpg'>"
+title: "SDXL"
+excerpt: "Image generated using Boleromix (pony) and automatic1111 web UI.<br/><img src='/images/1105.jpg'>"
 collection: portfolio
 ---
 
-Image generated according to a [blog post](https://garymarcus.substack.com/p/dont-ride-this-bike-generative-ais) of Prof. Gary Marcus.
-
-A 4-ear rabbit is playing a violin without a bridge. She holds a spoon. There is a potato under the spoon and 5 fish in the air.
-
-![image](/images/rabbit.jpg)
+Image generated using [Boleromix (pony)](https://civitai.com/models/448716?modelVersionId=629179) and automatic1111 web UI.
+![image](/images/1105.jpg)
