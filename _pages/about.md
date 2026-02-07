@@ -17,4 +17,4 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?user=xg
 
 I obtained my B.S. in computer science and B.A. in physics from the University of Chicago. Outside of research, I worked as a Japanese-Chinese translator in a team that translates daily livestream content for over 1 million subscribers.
 
-[[Resume (Oct. 22, 2025)]](files/KenanTangResume_Website_102225.pdf)
+[[Resume (Feb. 7, 2026)]](files/KenanTangResume_Website_020726.pdf)
