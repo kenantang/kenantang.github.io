@@ -1,9 +1,11 @@
 ---
-title: "Yuiman Asama"
-excerpt: "A character from <a href=\"https://store.steampowered.com/app/3671710/Touhou_Kinjoukyou__Fossilized_Wonders/\">Touhou Kinjoukyou</a>. Please see my X for the <a href=\"https://x.com/KenanTang/status/1957170311272726919\">original post</a> and <a href=\"https://x.com/KenanTang/status/1957170699912597528\">time-lapse video</a>. <br/><img src='/images/yuiman-asama.png'>"
+title: "Compositionality and Parts"
+excerpt: "Image generated according to a <a href=\"https://garymarcus.substack.com/p/dont-ride-this-bike-generative-ais\">blog post</a> of Prof. Gary Marcus. This image has been accepted to <a href=\"https://thecvf-art.com/project/compositionality-and-parts/\">CVPR AI Art Gallery 2025</a>.<br/><img src='/images/rabbit.jpg'>"
 collection: portfolio
 ---
 
-A character from [Touhou Kinjoukyou](https://store.steampowered.com/app/3671710/Touhou_Kinjoukyou__Fossilized_Wonders/). Please see my X for the [original post](https://x.com/KenanTang/status/1957170311272726919) and [time-lapse video](https://x.com/KenanTang/status/1957170699912597528).
+Image generated according to a [blog post](https://garymarcus.substack.com/p/dont-ride-this-bike-generative-ais) of Prof. Gary Marcus. This image has been accepted to [CVPR AI Art Gallery](https://thecvf-art.com/project/compositionality-and-parts/).
 
-![image](/images/yuiman-asama.png)
+A 4-ear rabbit is playing a violin without a bridge. She holds a spoon. There is a potato under the spoon and 5 fish in the air.
+
+![image](/images/rabbit.jpg)
