@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year Ph.D. student in Computer Science at UCSB, working under the supervision of Professor [Yao Qin](https://yaoqin1.github.io/). My research involves different areas including:
+I am a 4th-year Ph.D. student in Computer Science at UCSB, working under the supervision of Professor [Yao Qin](https://yaoqin1.github.io/). My research involves different areas including:
 1. AI for Healthcare, specifically for **Type 1 Diabetes**.
 2. Iterative **image editing** methods. Our [latest work](https://openreview.net/forum?id=tY3Jvs5jwN) from NeurIPS 2025 has been implemented as a [Photoshop plugin](https://exchange.adobe.com/apps/cc/c09047be/spice).
 3. AI safety, specifically [time-sensitive evaluation](https://arxiv.org/abs/2511.08598), [**prompt sensitivity**](https://aclanthology.org/2025.emnlp-main.1006/), and [distribution shift](https://arxiv.org/abs/2505.22829).
