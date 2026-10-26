@@ -165,6 +165,7 @@ $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
 
 /* Change color of all bold text */
-strong, b {
-  color: #3295ff; /* Replace with your desired hex color code */
-}
+// KT: Disabled on October 26, 2026 in order to highlight other information
+// strong, b {
+//   color: #3295ff; /* Replace with your desired hex color code */
+// }
